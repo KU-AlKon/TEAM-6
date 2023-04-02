@@ -5,8 +5,8 @@
 ## ✅ MEMBERS
   <a href="https://solved.ac/profile/eogns47"><img height=130 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
   <a href="https://solved.ac/profile/kwon76"><img height=130 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwon76"></a>
+  <a href="https://solved.ac/profile/besuperst"><img height=130 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=besuperst"></a>
   <!--<a href="https://solved.ac/profile/eogns47"><img height=130 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
-  <a href="https://solved.ac/profile/eogns47"><img height=130 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
   <a href="https://solved.ac/profile/eogns47"><img height=130 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
   <a href="https://solved.ac/profile/eogns47"><img height=130 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a> !-->
 
