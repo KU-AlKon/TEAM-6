@@ -21,6 +21,7 @@ int main(){
 		if(ans[i]==1){count++;}
 	}
 	cout << count;
+	cout << "\n";
 
 	return 0;
 }

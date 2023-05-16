@@ -5,7 +5,6 @@ using namespace std;
 int main(){
     int input;
     int cnt = 0;
-    cout << "Enter a number: ";
     cin >> input;
     int num = input;
 
@@ -20,4 +19,6 @@ int main(){
             break;
         }
     }
+    cout << "\n";
+    return 0;
 }
